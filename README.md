@@ -13,3 +13,6 @@ A simple and powerful Streamlit app that summarizes long text documents using NL
 ```bash
 pip install -r requirements.txt
 streamlit run summarizer_app.py
+
+![image](https://github.com/user-attachments/assets/65993103-556c-4f7e-8e03-6d9b3b5fba0e)
+
